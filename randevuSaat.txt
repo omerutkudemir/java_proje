@@ -1,21 +1,3 @@
-Ad: Ad: omerutku Soyad: Soyad: demir
-Saatler: 10:20 - 19:20
 
--------------------------
-Ad: Ad: omerutku Soyad: Soyad: demir
-Saatler: 8:30 - 17:30
-
-
--------------------------
-Ad: Ad: bengisu Soyad: Soyad: demir
-Saatler: 8:0 - 18:0
-
--------------------------
-Ad: Ad: ahmet Soyad: Soyad: sonemz
-Saatler: 6:0 - 16:0
-
--------------------------
-Ad: Ad: bengisu Soyad: Soyad: demir
-Saatler: 8:30 - 17:0
 
 -------------------------
